@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "formTest",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

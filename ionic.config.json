@@ -1,0 +1,7 @@
+{
+  "name": "formTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
